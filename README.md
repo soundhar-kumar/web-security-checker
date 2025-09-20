@@ -1,5 +1,5 @@
-# web-security-checker
-# 🛡️ Web Security Checker
+# web-security-scanner
+# 🛡️ Web Security Scanner 
 
 > An educational cybersecurity tool built to demonstrate web security fundamentals and promote digital safety awareness.
 
@@ -36,14 +36,6 @@
 - **🎓 Beginner-Friendly**: Complex concepts explained in simple, accessible language
 - **🔍 Visual Indicators**: Color-coded results for immediate understanding
 
-## 🛠️ Technical Implementation
-
-### Technology Stack
-- **Frontend**: React 18+ with modern hooks (useState, useEffect)
-- **Styling**: Tailwind CSS for responsive, professional design
-- **Icons**: Lucide React for consistent visual elements
-- **Architecture**: Component-based structure for maintainability
-- **Deployment**: Static hosting optimized for performance
 
 ### Key Technical Decisions
 - **Client-Side Only**: No backend dependencies for maximum portability

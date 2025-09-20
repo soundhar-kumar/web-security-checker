@@ -3,13 +3,23 @@
 
 > An educational cybersecurity tool built to demonstrate web security fundamentals and promote digital safety awareness.
 
-
-- **Technical Proficiency**: Modern web development using React and JavaScript
 - **Cybersecurity Awareness**: Understanding of fundamental web security principles
 - **Educational Leadership**: Ability to simplify complex technical concepts for learning
 - **Problem-Solving Skills**: Creating practical solutions for real-world security challenges
 - **Academic Excellence**: Commitment to continuous learning in emerging technologies
 
+## 🛠️ Tech Stack  
+
+### **Frontend**  
+- ⚛️ React + TypeScript  
+- 🎨 TailwindCSS  
+- ⚡ Vite (build tool)  
+- 🧹 ESLint (code quality)  
+
+### **Backend**  
+- 🐍 Python 3  
+- ⚡ Flask / FastAPI API (via `run.py`)  
+- 📦 Dependencies in `backend/requirements.txt` 
 
 ## 🚀 Key Features & Technical Achievements
 
